@@ -13,3 +13,4 @@ Arduino sketch for Renault joystick and Alpine mulimedia. NEC protocol.
 
 Писалось, тестировалось и работало на Alpine UTE-72BT.
 
+[Чуть более подробно с картинками](https://www.drive2.ru/l/4430371/)
