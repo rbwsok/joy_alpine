@@ -11,5 +11,5 @@ Arduino sketch for Renault joystick and Alpine mulimedia. NEC protocol.
 У джойстика обрабатываются 6 кнопок и энкодер. [схема](https://a.d-cd.net/f4f8accs-960.jpg) (взято с дастерклуба)
 
 
-Писалось, тестировалось и раблотало на Alpine UTE-72BT.
+Писалось, тестировалось и работало на Alpine UTE-72BT.
 
